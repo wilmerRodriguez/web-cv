@@ -10,5 +10,6 @@ BOOTSTRAP
 
 ## My Goals:
 Adding Upcoming projects as will as building upon this main CV site.
+https://wilmerrodriguez.github.io/web-cv/
 
 
