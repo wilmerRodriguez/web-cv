@@ -6,8 +6,8 @@ Technologies Used:
 1. HTML 
 2. CSS
 3. BOOTSTRAP
-4. Javascript
-5. Jquery
+4. Javascript (coming soon)
+5. Jquery (coming soon)
 
 ## My Goals:
 Adding Upcoming projects as will as building upon this main CV site.
